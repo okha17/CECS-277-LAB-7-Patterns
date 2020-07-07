@@ -37,5 +37,6 @@ public String getFirstName();
 public String getLastName();
 }
 
+
 a. Create an adapter to convert the interface NameInterface to FullNameInterface
 b. Write a main method test the adapter.
